@@ -1,0 +1,230 @@
+Wood Helmet
+Rich Mahogany Helmet
+Boreal Wood Helmet
+Palm Wood Helmet
+Ebonwood Helmet
+Shadewood Helmet
+Ash Wood Helmet
+Cactus Helmet
+Goggles
+Empty Bucket
+Green Cap
+Mining Helmet
+Magic Hat
+Copper Helmet
+Tin Helmet
+Iron Helmet 
+Lead Helmet
+Silver Helmet
+Tungsten Helmet
+Gold Helmet 
+Platinum Helmet
+Rain Hat
+Diving Helmet
+Snow Hood
+Night Vision Helmet
+Wizard Hat
+Viking Helmet
+Gladiator Helmet
+Angler Hat
+Ultrabright Helmet
+Pumpkin Helmet
+Fossil Helmet
+Jungle Hat 
+Ninja Hood
+Shadow Helmet 
+Crimson Helmet
+Molten Helmet
+Necro Helmet 
+Meteor Helmet
+Bee Headgear
+Obsidian Outlaw Hat
+Wood Breastplate
+Rich Mahogany Breastplate
+Boreal Wood Breastplate
+Palm Wood Breastplate
+Ebonwood Breastplate
+Shadewood Breastplate
+Ash Wood Breastplate
+Cactus Breastplate
+Mining Shirt
+Gi
+Mystic Robe
+Amethyst Robe
+Topaz Robe
+Sapphire Robe
+Emerald Robe
+Ruby Robe
+Diamond Robe
+Amber Robe
+Copper Chainmail
+Tin Chainmail
+Iron Chainmail
+Lead Chainmail
+Silver Chainmail
+Tungsten Chainmail
+Gold Chainmail
+Platinum Chainmail
+Rain Coat
+Snow Coat
+Angler Vest
+Pumpkin Breastplate
+Gladiator Breastplate
+Fossil Plate
+Jungle Shirt 
+Flinx Fur Coat
+Ninja Shirt
+Shadow Scalemail 
+Crimson Scalemail
+Molten Breastplate
+Necro Breastplate
+Meteor Suit
+Bee Breastplate
+Obsidian Longcoat
+Wood Greaves
+Rich Mahogany Greaves
+Boreal Wood Greaves
+Palm Wood Greaves
+Ebonwood Greaves
+Shadewood Greaves
+Ash Wood Greaves
+Cactus Leggings
+Mining Pants
+Copper Greaves
+Tin Greaves
+Iron Greaves
+Lead Greaves
+Silver Greaves
+Tungsten Greaves
+Gold Greaves
+Platinum Greaves
+Snow Pants
+Angler Pants
+Pumpkin Leggings
+Moon Lord Legs
+Gladiator Leggings
+Fossil Greaves
+Jungle Pants 
+Ninja Pants
+Shadow Greaves 
+Crimson Greaves
+Molten Greaves
+Necro Greaves
+Meteor Leggings
+Bee Greaves
+Obsidian Pants
+Pearlwood Helmet
+Spider Mask
+Cobalt Helmet
+Cobalt Mask
+Cobalt Hat
+Palladium Mask
+Palladium Helmet
+Palladium Headgear
+Mythril Helmet
+Mythril Hat
+Mythril Hood
+Orichalcum Mask
+Orichalcum Helmet
+Orichalcum Headgear
+Adamantite Helmet
+Adamantite Mask
+Adamantite Headgear
+Titanium Mask
+Titanium Helmet
+Titanium Headgear
+Frost Helmet
+Forbidden Mask
+Crystal Assassin Hood
+Hallowed Mask 
+Hallowed Helmet 
+Hallowed Headgear 
+Hallowed Hood
+Squire's Great Helm
+Monk's Bushy Brow Bald Cap
+Huntress's Wig
+Apprentice's Hat
+Chlorophyte Mask
+Chlorophyte Helmet
+Chlorophyte Headgear
+Turtle Helmet
+Beetle Helmet
+Shroomite Headgear
+Shroomite Mask
+Shroomite Helmet
+Spectre Mask
+Spectre Hood
+Tiki Mask
+Spooky Helmet
+Valhalla Knight's Helm
+Shinobi Infiltrator's Helmet
+Red Riding Hood
+Dark Artist's Hat
+Solar Flare Helmet
+Vortex Helmet
+Nebula Helmet
+Stardust Helmet
+Pearlwood Breastplate
+Spider Breastplate
+Cobalt Breastplate
+Palladium Breastplate
+Mythril Chainmail
+Orichalcum Breastplate
+Adamantite Breastplate
+Titanium Breastplate
+Frost Breastplate
+Forbidden Robes
+Crystal Assassin Shirt
+Hallowed Plate Mail 
+Squire's Plating
+Monk's Shirt
+Huntress's Jerkin
+Apprentice's Robe
+Chlorophyte Plate Mail
+Turtle Scale Mail
+Beetle Scale Mail
+Beetle Shell
+Shroomite Breastplate
+Spectre Robe
+Tiki Shirt
+Spooky Breastplate
+Valhalla Knight's Breastplate
+Shinobi Infiltrator's Torso
+Red Riding Dress
+Dark Artist's Robes
+Solar Flare Breastplate
+Vortex Breastplate
+Nebula Breastplate
+Stardust Plate
+Pearlwood Greaves
+Djinn's Curse
+Spider Greaves
+Cobalt Leggings
+Palladium Leggings
+Mythril Greaves
+Orichalcum Leggings
+Adamantite Leggings
+Titanium Leggings
+Frost Leggings
+Forbidden Treads
+Crystal Assassin Pants
+Hallowed Greaves 
+Squire's Greaves
+Monk's Pants
+Huntress's Pants
+Apprentice's Trousers
+Chlorophyte Greaves
+Turtle Leggings
+Beetle Leggings
+Shroomite Leggings
+Spectre Pants
+Tiki Pants
+Spooky Leggings
+Valhalla Knight's Greaves
+Shinobi Infiltrator's Pants
+Red Riding Leggings
+Dark Artist's Leggings
+Solar Flare Leggings
+Vortex Leggings
+Nebula Leggings
+Stardust Leggings
